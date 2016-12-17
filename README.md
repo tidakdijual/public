@@ -30,7 +30,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 run this command:
 
-composer update
+	composer update
 
 then modify vendor/cartalyst/sentinel/src/Users/EloquentUser.php
 
@@ -48,6 +48,6 @@ then modify vendor/cartalyst/sentinel/src/Users/EloquentUser.php
 
 and then run this command:
 
-php artisan migrate
+	php artisan migrate
 
 
